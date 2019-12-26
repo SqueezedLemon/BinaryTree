@@ -1,5 +1,5 @@
-#indef ArrayBST_h
-#define ArrayBST_h
+
+
 #define MAX_SIZE 100
 class ArrayBST : public BinarySearchTree
 {
@@ -14,4 +14,4 @@ class ArrayBST : public BinarySearchTree
 		bool search (int data);
 };
 
-#endif
+
